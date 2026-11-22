@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420" role="img" aria-label="艺术 书籍封面插画">
+  <rect width="300" height="420" rx="14" fill="#6a4a86"/>
+  <rect x="14" y="14" width="272" height="392" rx="8" fill="none" stroke="#efe2f6" stroke-width="3" opacity=".6"/>
+  <circle cx="120" cy="150" r="34" fill="#b893d1" opacity=".9"/><circle cx="185" cy="120" r="34" fill="#efe2f6" opacity=".9"/><circle cx="240" cy="165" r="34" fill="#b893d1" opacity=".7"/><path d="M90 270 Q150 220 210 270 T300 270" stroke="#efe2f6" stroke-width="10" fill="none" stroke-linecap="round" opacity=".8"/>
+  <text x="150" y="330" text-anchor="middle" font-size="34" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-weight="700" fill="#efe2f6">艺术</text>
+  <text x="150" y="365" text-anchor="middle" font-size="13" letter-spacing="4" font-family="Arial, sans-serif" fill="#efe2f6" opacity=".85">ART</text>
+</svg>

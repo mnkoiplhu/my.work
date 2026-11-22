@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420" role="img" aria-label="成长 书籍封面插画">
+  <rect width="300" height="420" rx="14" fill="#4d7a58"/>
+  <rect x="14" y="14" width="272" height="392" rx="8" fill="none" stroke="#e2f0d9" stroke-width="3" opacity=".6"/>
+  <path d="M150 330 C150 260 120 220 80 195 C130 200 160 235 170 285" fill="#e2f0d9" opacity=".9"/><path d="M170 330 C170 250 205 210 250 190 C220 230 205 275 200 330" fill="#8fbf83" opacity=".9"/><rect x="105" y="330" width="120" height="20" rx="6" fill="#e2f0d9"/>
+  <text x="150" y="330" text-anchor="middle" font-size="34" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-weight="700" fill="#e2f0d9">成长</text>
+  <text x="150" y="365" text-anchor="middle" font-size="13" letter-spacing="4" font-family="Arial, sans-serif" fill="#e2f0d9" opacity=".85">GROWTH</text>
+</svg>

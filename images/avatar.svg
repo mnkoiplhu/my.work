@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" width="420" height="420" role="img" aria-label="正在读书的创作者插画">
+  <circle cx="210" cy="210" r="190" fill="#eef3e8"/>
+  <circle cx="210" cy="210" r="160" fill="#dce9d2"/>
+  <path d="M120 330 C125 250 165 215 210 215 C255 215 295 250 300 330 Z" fill="#6f8f7a"/>
+  <circle cx="210" cy="165" r="62" fill="#f4c9a8"/>
+  <path d="M148 160 C150 115 180 96 210 96 C245 96 272 120 272 160 C250 140 230 134 210 134 C188 134 168 142 148 160 Z" fill="#3d332c"/>
+  <circle cx="190" cy="166" r="5" fill="#3d332c"/><circle cx="232" cy="166" r="5" fill="#3d332c"/>
+  <path d="M198 190 Q210 202 224 190" stroke="#b56b52" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <g transform="translate(112 268)">
+    <path d="M0 30 L90 0 L180 30 L90 62 Z" fill="#fff8ea" stroke="#c96f4a" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M90 0 L90 62" stroke="#c96f4a" stroke-width="4"/>
+    <path d="M18 36 L82 14 M98 14 L162 36" stroke="#d9c7a8" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <path d="M70 350 Q210 390 350 350" stroke="#c96f4a" stroke-width="6" fill="none" stroke-linecap="round" opacity=".5"/>
+</svg>

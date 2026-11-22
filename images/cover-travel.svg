@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420" role="img" aria-label="旅行 书籍封面插画">
+  <rect width="300" height="420" rx="14" fill="#2f5f8a"/>
+  <rect x="14" y="14" width="272" height="392" rx="8" fill="none" stroke="#dceaf6" stroke-width="3" opacity=".6"/>
+  <circle cx="245" cy="110" r="34" fill="#79aad3" opacity=".9"/><path d="M40 300 L140 180 L210 270 L260 210 L330 300 Z" fill="#dceaf6" opacity=".85"/><path d="M40 300 L330 300" stroke="#79aad3" stroke-width="10" stroke-linecap="round"/>
+  <text x="150" y="330" text-anchor="middle" font-size="34" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-weight="700" fill="#dceaf6">旅行</text>
+  <text x="150" y="365" text-anchor="middle" font-size="13" letter-spacing="4" font-family="Arial, sans-serif" fill="#dceaf6" opacity=".85">TRAVEL</text>
+</svg>

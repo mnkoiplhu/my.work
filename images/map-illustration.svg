@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-label="打开的书与阅读地图插画">
+  <rect width="600" height="400" rx="30" fill="#f4efe2"/>
+  <path d="M300 110 C240 70 130 70 70 100 L70 320 C130 290 240 290 300 330 C360 290 470 290 530 320 L530 100 C470 70 360 70 300 110 Z" fill="#fffdf7" stroke="#c96f4a" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M300 110 L300 330" stroke="#c96f4a" stroke-width="5"/>
+  <g fill="none" stroke="#9db9a4" stroke-width="4" stroke-linecap="round" opacity=".9">
+    <path d="M120 190 Q180 140 245 200 T400 180"/>
+    <path d="M135 255 Q210 215 265 265 T450 240"/>
+  </g>
+  <g fill="#c96f4a"><circle cx="120" cy="190" r="9"/><circle cx="245" cy="200" r="9"/><circle cx="400" cy="180" r="9"/><circle cx="265" cy="265" r="9"/><circle cx="450" cy="240" r="9"/></g>
+  <g font-family="Microsoft YaHei, sans-serif" font-size="18" fill="#5d4b3c"><text x="108" y="165">文学</text><text x="228" y="175">历史</text><text x="388" y="155">科普</text><text x="250" y="300">成长</text><text x="438" y="275">艺术</text></g>
+  <path d="M300 90 L292 70 L308 70 Z" fill="#e0a94a"/>
+</svg>
